@@ -1,0 +1,21 @@
+/* ctrl + a , delete/backspace */
+
+/* tags */
+/* tag{
+  properties : value
+} */
+h1{
+  color: rgb(7, 7, 114);
+}
+p{
+  color: rgb(7, 114, 14);
+}
+
+/* .classname{
+  properties : value
+} */
+ 
+.class1{
+  color: rgb(14, 117, 137);
+}
+
