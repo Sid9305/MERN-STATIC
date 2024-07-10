@@ -1,0 +1,10 @@
+      {/* create a div with any bg color */}
+      {/* div should have one para tag, u can do lorem32 */}
+      {/* outside div 2 buttons */}
+
+event handling
+onclick
+onmouseover
+onchange
+oncopy
+oncut
