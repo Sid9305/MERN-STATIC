@@ -1,0 +1,18 @@
+fetching api and displaying data
+useEffect hook
+for sideffect / action
+prerequiste : useState
+3 ways of useffect 
+1) [] : page renders 
+2) without [] : when any changes occur in component
+3) [name] : when that particular usestate has a change 
+
+Conditional Rendering
+3 types
+1) ternary operator
+2) if & else, conditional statements
+3) && , || 
+
+async await in fetching
+fetch() , json() 
+api : https://jsonplaceholder.typicode.com/posts
